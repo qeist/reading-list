@@ -9,3 +9,5 @@ Lightweight-Django
 - 6. Single-Page Web Application
 - 7. Real-Time Django
 - 8. Communication Between Django and Tornado
+
+## 1. The World's Smallest Django Project

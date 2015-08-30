@@ -34,3 +34,44 @@ Lightweight-Django
 - Adding Static and Template Settings
 - Home Page Template and CSS
 - Complete Project
+
+## 3. Building a Static Site Generator
+- Creating Static Sites with Django
+- What Is Rapid Prototyping?
+- Initial Project Layout
+  - File/Folder Scaffolding
+  - Basic Settings
+- Page Rendering
+  - Creating Our Base Templates
+  - Static Page Generator
+  - Basic Styling
+  - Prototype Layouts and Navigation
+- Generating Static Content
+  - Setting Configuration
+  - Custom Management Command
+  - Building Single Page
+- Serving and Compressing Static Files
+  - Hashing Out CSS and JavaScript Files
+  - Compressing Our Static Files
+- Generating Dynamic Content
+  - Updating Our Templates
+  - Adding Metadata
+
+## 4. Building a REST API
+- Django and REST
+- Scrum Board Data Map
+  - Initial Project Layout
+  - Project Settings
+  - No Django Admin?
+  - Models
+- Designing the API
+  - Sprint Endpoints
+  - Task and User Endpoints
+  - Connecting to the Router
+  - Linking Resources
+- Testing Out the API
+  - Using the Browsable API
+  - Adding Filtering
+  - Adding Validations
+  - Using a Python Client
+- Next Steps

@@ -12,14 +12,14 @@ Lightweight-Django
 
 ## 1. The World's Smallest Django Project
 - Hello Django
-- Creating the View
-- The URL Patterns
-- The Settings
-- Running the Example
+  - Creating the View
+  - The URL Patterns
+  - The Settings
+  - Running the Example
 - Improvements
-- WSGI Application
-- Additional Configuration
-- Reusable Template
+  - WSGI Application
+  - Additional Configuration
+  - Reusable Template
 
 ## 2. Stateless Web Application
 - Why Stateless?

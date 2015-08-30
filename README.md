@@ -6,9 +6,9 @@
  
  
  ## 읽고 있는 책
- 
+ [OReilly-Lightweight-Django](http://shop.oreilly.com/product/0636920032502.do)
  [자바스크립트 완벽가이드(6/E)](http://book.naver.com/bookdb/book_detail.nhn?bid=7121555)  
--[조엘 온 소프트웨어](http://book.naver.com/bookdb/book_detail.nhn?bid=1528741) (2010.05)  
+ [조엘 온 소프트웨어](http://book.naver.com/bookdb/book_detail.nhn?bid=1528741) (2010.05)  
  
  
  ## 읽다만 책 (반성하고 마무리해야함)

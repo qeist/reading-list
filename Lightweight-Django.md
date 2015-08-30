@@ -22,3 +22,15 @@ Lightweight-Django
 - Reusable Template
 
 ## 2. Stateless Web Application
+- Why Stateless?
+- Reusable Apps Versus Composable Services
+- Placeholder Image Server
+- Views
+- URL Patterns
+- Placeholder View
+- Image Manipulation
+- Adding Caching
+- Creating the Home Page View
+- Adding Static and Template Settings
+- Home Page Template and CSS
+- Complete Project

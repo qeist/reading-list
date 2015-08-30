@@ -11,3 +11,14 @@ Lightweight-Django
 - 8. Communication Between Django and Tornado
 
 ## 1. The World's Smallest Django Project
+- Hello Django
+- Creating the View
+- The URL Patterns
+- The Settings
+- Running the Example
+- Improvements
+- WSGI Application
+- Additional Configuration
+- Reusable Template
+
+## 2. Stateless Web Application
